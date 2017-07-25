@@ -1,6 +1,3 @@
-# Session Decks
-Looking for content from a session that I've presented a conference or user group? You've come to the right place.
-
 ## License
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
